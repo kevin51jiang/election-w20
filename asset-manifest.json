@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/election-w20/static/css/main.2eb89b4b.chunk.css",
-    "main.js": "/election-w20/static/js/main.27ac665e.chunk.js",
-    "main.js.map": "/election-w20/static/js/main.27ac665e.chunk.js.map",
+    "main.js": "/election-w20/static/js/main.65281336.chunk.js",
+    "main.js.map": "/election-w20/static/js/main.65281336.chunk.js.map",
     "runtime-main.js": "/election-w20/static/js/runtime-main.7ae7e48e.js",
     "runtime-main.js.map": "/election-w20/static/js/runtime-main.7ae7e48e.js.map",
     "static/js/2.097b9f99.chunk.js": "/election-w20/static/js/2.097b9f99.chunk.js",
     "static/js/2.097b9f99.chunk.js.map": "/election-w20/static/js/2.097b9f99.chunk.js.map",
     "index.html": "/election-w20/index.html",
-    "precache-manifest.4ab929bc7c55293182f562084bdcda58.js": "/election-w20/precache-manifest.4ab929bc7c55293182f562084bdcda58.js",
+    "precache-manifest.8a555bad6bba8588280160c894a6c117.js": "/election-w20/precache-manifest.8a555bad6bba8588280160c894a6c117.js",
     "service-worker.js": "/election-w20/service-worker.js",
     "static/css/main.2eb89b4b.chunk.css.map": "/election-w20/static/css/main.2eb89b4b.chunk.css.map",
     "static/js/2.097b9f99.chunk.js.LICENSE.txt": "/election-w20/static/js/2.097b9f99.chunk.js.LICENSE.txt",
@@ -29,6 +29,6 @@
     "static/js/runtime-main.7ae7e48e.js",
     "static/js/2.097b9f99.chunk.js",
     "static/css/main.2eb89b4b.chunk.css",
-    "static/js/main.27ac665e.chunk.js"
+    "static/js/main.65281336.chunk.js"
   ]
 }
