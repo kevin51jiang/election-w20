@@ -2,7 +2,7 @@
   "name": "open-react-template",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://kevinjiang.ca",
+  "homepage": "https://kevinjiang.ca/election-w20",
   "dependencies": {
     "classnames": "^2.2.6",
     "firebase": "^7.24.0",

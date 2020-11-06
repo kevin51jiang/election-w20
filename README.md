@@ -1,6 +1,6 @@
 # EngSoc Winter 2020 Election Website
 
-Website for VPA election, made in React. 
+Website for VP Academic election, made in React. Responsive design.
 
 Visit the live website at [kevinjiang.ca/election-w20](https://kevinjiang.ca/election-w20)
 
